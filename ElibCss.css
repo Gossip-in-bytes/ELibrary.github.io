@@ -1,0 +1,58 @@
+.abc {
+  background-image: url("LImg.jpeg");
+  text-align: center;
+  color: white;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top {
+  background: white;
+  border: none;
+  padding: 1em 0;
+  -webkit-transition: .5s all;
+  -moz-transition: .5s all;
+  transition: .5s all;
+}
+
+.cpy-right {
+  background: #66CCFF;
+}
+
+li {
+font-size: 25px;
+}
+
+table{
+background-color:transparent;
+border-top: 1px solid white;
+padding-top:10px;
+font-size:20px;
+font-weight:light;
+font-family:arial;
+}
+h3,h2 {
+  color: white;
+  font-family:Arial;
+}
+
+li {
+background-color: #006699;
+line-height:1.7em;
+color: white;  
+font-family:arial;
+padding:10px;
+border-color: black;
+border-width: 2px;
+width: 900px;
+}
+
+li {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li:hover {
+	background-color: #000000;
+}
